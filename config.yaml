@@ -1,0 +1,8 @@
+cpu_threshold: 80.0
+memory_threshold: 80.0
+disk_threshold: 80.0
+network_threshold: 1000000
+monitoring_interval: 5
+log_file: 'monitor.log'
+alert_email: 'admin@example.com'
+dashboard_refresh_rate: 2
